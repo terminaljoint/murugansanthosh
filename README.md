@@ -6,10 +6,7 @@
 - Yeah, i started this Terminal Joint as a brand for hosting some websites, and for Developing Games!, In Sep-2025 As solo.
 - My Open Source experience started early Jan-2026 on Translating Gdevelop engine to tamil via Crowdin.
 - Within 6 months from initiating my brand, in March-2026 I have created the repository for the official python documentation for tamil, and i am maintaining it now.
-- And became the Coordinator in the Official Python Documentation in Tamil.
-- Then Created PyTamil - Tamil Python Community.
-- And also My First ever official PR in Github is in the official Python DevGuide!
-- Also i am now developing a game named "Ultimate Lands" , as soon it will be released!
+- Also i am now developing a game named "Ultimate Lands", hope that it will be released soon!
 <!--
 **terminaljoint/terminaljoint** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
